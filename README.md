@@ -32,11 +32,11 @@ Data Source: School_ District_Analysis.csv; Software: Python 3.7.6;  Jupyter Not
 
 ### District summary comparison after replacing the 9th grade scores of Thomas High School with NaN:
 
-* The percentage passing math reduced from 75 to 74 
+* The percentage passing math reduced from 75% to 74% 
 
-* The percentage passing reading dropped from 86 to 85 
+* The percentage passing reading dropped from 86% to 85% 
 
-* The percentage overall passing also reduced from 65 to 64
+* The percentage overall passing also reduced from 65% to 64%
 
 As shown above, the removal of the 9th grade scores had a slight impact on the percentage passing math and reading and the percentage overall passing.
 
