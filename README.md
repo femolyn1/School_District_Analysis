@@ -1,4 +1,4 @@
-#PROJECT NAME:  School_District_Analysis
+###PROJECT NAME:  School_District_Analysis
 
 ## Project Overview:
 Analysis of data on student finding and student test scores to showcase trends in school performance which will assist the school board in making decisions regarding school budget and priorities. A district  school summary with the following information is required:
