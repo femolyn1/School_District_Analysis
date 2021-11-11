@@ -31,7 +31,7 @@ We are also required to aggregate and analyze the student scores by school spend
 ## Resources:
 Data Source: School_ District_Analysis.csv; Software: Python 3.7.6;  Jupyter Notebook 
 
-## Challenge Summary
+## Findings 
 
 ### District summary comparison after replacing the 9th grade scores of Thomas High School with NaN:
 
